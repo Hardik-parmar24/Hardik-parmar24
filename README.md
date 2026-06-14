@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hardik Parmar</h1>
-<h3 align="center">A motivated 3rd-year CE student with a passion for learning and building.</h3>
+<h3 align="center">A motivated Final year CE student with a passion for learning and building.</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQUNSzPxe2kJ1-4e_tvJadE8OWtkekzKbkbg&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardik-parmar24&label=Profile%20views&color=0e75b6&style=flat" alt="hardik-parmar24" /> </p>
